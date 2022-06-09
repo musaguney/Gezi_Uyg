@@ -8,6 +8,7 @@ Berkant Yurtsever 1190505623
 Musa Güney        1190505029
 
 Flutter kullanarak bir gezi park uygulamasını geliştirdik.
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97352514/172863120-00543e2d-6da2-4435-b084-ab5e705a1015.gif)
 
 
 
